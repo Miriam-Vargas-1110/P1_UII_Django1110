@@ -1,0 +1,11 @@
+- Crear aplicacion vargasclase_app
+- comando --> python manage.py startapp vargasclase_app
+- ![alt text](image.png)
+- En settings.py de p2clase1110
+- ![alt text](image-1.png)
+- En urls.py de p2clase1110
+- ![alt text](image-2.png)
+- En urls.py en vargasclase_app
+-![alt text](image-3.png)
+- En views.py en vargasclase_app
+-![alt text](image-4.png)
